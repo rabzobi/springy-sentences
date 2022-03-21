@@ -44,7 +44,8 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-test</artifactId>
 			<scope>compile</scope>
-		</dependency>		
+		</dependency>
+			
 	</dependencies>
 
 	<build>
